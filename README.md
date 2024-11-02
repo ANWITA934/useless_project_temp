@@ -23,11 +23,10 @@ By making a website that generate random fun facts,inspiring codes etc
 
 ## Technical Details
 ### Technologies/Components Used
--For Software:
+-For Software:-
  html,python,proteus
--[Libraries used]
-VSCODE
-For Hardware:
+Libraries used :- VSCODE
+-For Hardware:
 - LM358,Resistor,Potentiometer,Capacitor,BC548,LED,Antenna,Power Supply
 - 1 KΩ, 220 K Ω, 2.2 M Ω are the resistors used ,. The capacitors are of value 1 μF and 100 μF. For DC Power Supply we have provided a battery with 4.5V 
 - Tools required are proteus, multimeter, DC Power Supply
