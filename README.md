@@ -29,12 +29,11 @@ By making a website that generate random fun facts,inspiring codes etc
 VSCODE
 For Hardware:
 - LM358,Resistor,Potentiometer,Capacitor,BC548,LED,Antenna,Power Supply
-- [List specifications]
-- [List tools required]
+- 1 KΩ, 220 K Ω, 2.2 M Ω are the resistors used ,. The capacitors are of value 1 μF and 100 μF. For DC Power Supply we have provided a battery with 4.5V 
+- Tools required are proteus, multimeter, DC Power Supply
 
 ### Implementation
-For Software:![Mobile-Phone-Detector-Circuit-using-Op-Amp](https://github.com/user-attachments/assets/460c9f67-c7c8-4735-88a5-569238b820a8)
-
+For Software:
 # Installation
 [commands]
 
@@ -64,7 +63,8 @@ For Hardware:
 ![Circuit](Add your circuit diagram here)
 *Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
+![Schematic]![Mobile-Phone-Detector-Circuit-using-Op-Amp](https://github.com/user-attachments/assets/f3fb785c-86bb-45ff-bdc0-f10f10ee84e8)
+
 *Add caption explaining the schematic*
 
 # Build Photos
