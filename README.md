@@ -59,7 +59,7 @@ For Software:
 For Hardware:
 
 # Schematic & Circuit
-![Circuit]((https://github.com/user-attachments/assets/f3fb785c-86bb-45ff-bdc0-f10f10ee84e8))
+![Circuit](https://github.com/user-attachments/assets/f3fb785c-86bb-45ff-bdc0-f10f10ee84e8)
 *Add caption explaining connections*
 
 ![Schematic]![Mobile-Phone-Detector-Circuit-using-Op-Amp]
