@@ -77,9 +77,7 @@ The Op-amp part of the circuit acts as the RF Signal Detector while Transistor p
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+During the building of 2 projects, everyone contributed equally. We bounced ideas off each other, tackled tasks based on our strengths, and kept communication open throughout the day. This teamwork not only fueled our creativity but also made the experience enjoyable. Each person's input was key to our success!
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
