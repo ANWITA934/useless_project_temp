@@ -1,34 +1,32 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+#  Procrastination Station 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: TEAM OP
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Abraham Jeyakumar - NSS College Of Engineering 
+- Member 2: Anwita K Menon - NSS College Of Engineering
+- Member 3: Aravind Sunil -NSS College Of Engineering
 
 ### Project Description
-[2-3 lines about what your project does]
+Make people Happy
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Reduece pressure of people
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+By making a website that generate random fun facts,inspiring codes etc
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
+-For Software:
+ html,python
 - [Libraries used]
-- [Tools used]
-
+VSCODE
 For Hardware:
 - [List main components]
 - [List specifications]
