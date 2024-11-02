@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    background: linear-gradient(135deg, #f0f4f8 0%, #e1e8ed 100%);  /* Soft gradient background */
+    color: #4A4A4A;  /* Dark gray for text */
+}
+
+.wrapper {
+    width: 40rem;
+    background-color: #ffffff;  /* White background for content area */
+    border-radius: 20px;  /* More rounded corners */
+    padding: 3em;  /* Increased padding */
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.1);  /* Deeper shadow for more emphasis */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;  /* Added shadow transition */
+}
+
+.wrapper:hover {
+    transform: translateY(-5px);  /* Slight lift effect on hover */
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);  /* Enhanced shadow on hover */
+}
+
+.wrapper header {
+    font-size: 2.5em;
+    font-weight: 600;
+    text-align: center;
+    color: #007BFF;  /* Vivid blue color for header */
+    margin-bottom: 1.5em;  /* Space below header */
+}
+
+.wrapper .content {
+    margin: 1.5em 0;
+}
+
+.content .quote-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5em;  /* Ample padding for quote area */
+    background-color: #e1f5fe;  /* Light blue background for quote area */
+    border-radius: 15px;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);  /* Subtle shadow for the quote area */
+}
+
+.quote-area i {
+    font-size: 1.6em;
+    color: #007BFF;  /* Matching blue color for icons */
+    margin: 0 1em;  /* Space between icons and quote */
+}
+
+.quote-area .quote {
+    font-size: 1.4em;
+    display: inline-block;
+    text-align: center;
+    word-break: break-word;
+    padding: 1em 1.5em;  /* Ample padding for the quote */
+    background-color: #ffffff;  /* White background for quote text */
+    border-radius: 10px;
+    border: 1px solid #B3E5FC;  /* Soft border */
+    max-width: 80%;  /* Limit the width for better readability */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);  /* Light shadow for quote text */
+}
+
+.content .author {
+    display: flex;
+    justify-content: flex-end;
+    font-style: italic;
+    font-size: 1.1em;
+    margin-top: 1em;
+    color: #616161;  /* Darker gray for author */
+}
+
+.wrapper .buttons {
+    margin-top: 2em;  /* More space above buttons */
+    text-align: center;  /* Center align buttons */
+}
+
+.buttons .features {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3em;  /* Increased gap between buttons */
+}
+
+.features ul {
+    display: flex;
+}
+
+.features ul li {
+    list-style: none;
+    height: 4em;  /* Increased icon size */
+    width: 4em;  /* Increased icon size */
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background-color: #007BFF;  /* Primary button color */
+    color: #ffffff;  /* White icon color */
+    transition: background-color 0.3s ease, transform 0.3s ease;  /* Added transform transition */
+}
+
+.features ul li:hover {
+    background-color: #0056b3;  /* Darker blue on hover */
+    transform: scale(1.1);  /* Slightly enlarge on hover */
+}
+
+.features button {
+    border: none;
+    padding: 1em 2.5em;  /* Generous button padding */
+    border-radius: 30px;  /* More rounded button */
+    background-color: #007BFF;  /* Matching button color */
+    color: #ffffff;  /* White text */
+    font-size: 1.1em;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;  /* Added transform transition */
+}
+
+.features button:hover {
+    background-color: #0056b3;  /* Darker shade on hover */
+    transform: scale(1.05);  /* Slightly enlarge on hover */
+}
+
+button.loading {
+    opacity: 0.7;
+    pointer-events: none;
+}
+
+@media screen and (max-width: 660px) {
+    .wrapper {
+        width: 90%;
+        padding: 2em;  /* Adjust padding for smaller screens */
+    }
+
+    .wrapper header {
+        font-size: 2em;  /* Slightly smaller header */
+    }
+
+    .quote-area i {
+        font-size: 1.4em;  /* Adjust icon size */
+    }
+
+    .quote-area .quote {
+        font-size: 1.2em;  /* Adjust quote size */
+    }
+
+    .content .author {
+        font-size: 1em;  /* Adjust author size */
+    }
+
+    .buttons .features {
+        flex-wrap: wrap;  /* Allow buttons to wrap */
+    }
+
+    .features ul li {
+        width: 3.5em;  /* Adjust icon size for smaller screens */
+        height: 3.5em;  /* Adjust icon size for smaller screens */
+    }
+
+    .features button {
+        padding: .8em 1.5em;  /* Adjust button size */
+        font-size: 1em;
+    }
+}
