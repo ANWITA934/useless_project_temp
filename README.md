@@ -37,16 +37,16 @@ Libraries used :- VSCODE
 For Software: Used VSCode for most of the coding works. And worked with Proteus 8 Professional while working out with the hardware
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)![WhatsApp Image 2024-11-02 at 23 58 39_ab66d1a9](https://github.com/user-attachments/assets/0bb12c34-80a2-472e-a639-fe0fe91fc5ea)
+[Screenshot1](https://github.com/user-attachments/assets/a07008f7-52bf-4c7d-a845-d099201ebe52)
 
 
-![Screenshot2](Add screenshot 2 here with proper name)![WhatsApp Image 2024-11-02 at 23 58 39_ab66d1a9](https://github.com/user-attachments/assets/33e1479e-5d24-4ba9-ae1c-b15b0e20cafd)
 
-The two pics above shows the detection of incoming phone signal and a LED is blinking at the same moment. 
+[Screenshot2](https://github.com/user-attachments/assets/3941edb3-3237-4cad-a579-617306a2bac2)
 
-![Screenshot3](Add screenshot 3 here with proper name)![Screenshot 2024-11-03 001244](https://github.com/user-attachments/assets/e7172b87-6a7f-4bc5-833e-13fe091cd5be)
 
-This shows the picture of the website that is build for people who gets bored easily, and gets happier while reading dark humour jokes or quotes
+[Screenshot3](https://github.com/user-attachments/assets/b3796f89-496f-47a5-a60c-43fd2b00e31a)
+
+
 
 # Diagrams
 For Hardware:
