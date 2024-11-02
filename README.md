@@ -20,10 +20,10 @@ SOFTWARE:-Problem is for people that gets bored out and for people that zone out
 HARDWARE:- To detect incoming cell phone calls 
 
 ### The Solution (that nobody asked for)
-By making a website that generate random funny dark humour quotes that will cheer up people in real time
-By making a cell phone signal incoming detector using just one op-amp
+- By making a website that generate random funny dark humour quotes that will cheer up people in real time
+- By making a cell phone signal incoming detector using just one op-amp
 
-## Technical Details
+
 ### Technologies/Components Used
 -For Software:-
  html,python,proteus
@@ -35,38 +35,26 @@ Libraries used :- VSCODE
 
 ### Implementation
 For Software: Used VSCode for most of the coding works. And worked with Proteus 8 Professional while working out with the hardware
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software: 
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)![WhatsApp Image 2024-11-02 at 23 58 39_ab66d1a9](https://github.com/user-attachments/assets/0bb12c34-80a2-472e-a639-fe0fe91fc5ea)
 
-*Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)![WhatsApp Image 2024-11-02 at 23 58 39_ab66d1a9](https://github.com/user-attachments/assets/33e1479e-5d24-4ba9-ae1c-b15b0e20cafd)
 
-*Add caption explaining what this shows*
+The two pics above shows the detection of incoming phone signal and a LED is blinking at the same moment. 
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](Add screenshot 3 here with proper name)![Screenshot 2024-11-03 001244](https://github.com/user-attachments/assets/e7172b87-6a7f-4bc5-833e-13fe091cd5be)
+
+This shows the picture of the website that is build for people who gets bored easily, and gets happier while reading dark humour jokes or quotes
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
 For Hardware:
 
 # Schematic & Circuit
 ![Circuit](https://github.com/user-attachments/assets/f3fb785c-86bb-45ff-bdc0-f10f10ee84e8)
-*Add caption explaining connections*
 
-![Schematic]![Mobile-Phone-Detector-Circuit-using-Op-Amp]
+Mobile-Phone-Detector-Circuit-using-Op-Amp
 
 The Op-amp part of the circuit acts as the RF Signal Detector while Transistor part of the circuit act as the indicator. The capacitors collection along with the antenna are used to detect RF Signals when a cell phone makes (or receives) a phone call or sends (or receives) a text message .Op-Amp reads the signals by converting the rise in current at input to voltage at output and the LED will be activated.
 
