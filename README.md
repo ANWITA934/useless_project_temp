@@ -37,14 +37,14 @@ Libraries used :- VSCODE
 For Software: Used VSCode for most of the coding works. And worked with Proteus 8 Professional while working out with the hardware
 
 # Screenshots (Add at least 3)
-[Screenshot1](https://github.com/user-attachments/assets/a07008f7-52bf-4c7d-a845-d099201ebe52)
+![Screenshot1](https://github.com/user-attachments/assets/a07008f7-52bf-4c7d-a845-d099201ebe52)
 
 
 
-[Screenshot2](https://github.com/user-attachments/assets/3941edb3-3237-4cad-a579-617306a2bac2)
+![Screenshot2](https://github.com/user-attachments/assets/3941edb3-3237-4cad-a579-617306a2bac2)
 
 
-[Screenshot3](https://github.com/user-attachments/assets/b3796f89-496f-47a5-a60c-43fd2b00e31a)
+![Screenshot3](https://github.com/user-attachments/assets/b3796f89-496f-47a5-a60c-43fd2b00e31a)
 
 
 
