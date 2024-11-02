@@ -59,12 +59,12 @@ For Software:
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
+![Circuit]((https://github.com/user-attachments/assets/f3fb785c-86bb-45ff-bdc0-f10f10ee84e8))
 *Add caption explaining connections*
 
-![Schematic]![Mobile-Phone-Detector-Circuit-using-Op-Amp](https://github.com/user-attachments/assets/f3fb785c-86bb-45ff-bdc0-f10f10ee84e8)
+![Schematic]![Mobile-Phone-Detector-Circuit-using-Op-Amp]
 
-*Add caption explaining the schematic*
+The Op-amp part of the circuit acts as the RF Signal Detector while Transistor part of the circuit act as the indicator. The capacitors collection along with the antenna are used to detect RF Signals when a cell phone makes (or receives) a phone call or sends (or receives) a text message .Op-Amp reads the signals by converting the rise in current at input to voltage at output and the LED will be activated.
 
 # Build Photos
 ![Components](Add photo of your components here)
