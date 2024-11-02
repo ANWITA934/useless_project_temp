@@ -33,7 +33,8 @@ For Hardware:
 - [List tools required]
 
 ### Implementation
-For Software:
+For Software:![Mobile-Phone-Detector-Circuit-using-Op-Amp](https://github.com/user-attachments/assets/460c9f67-c7c8-4735-88a5-569238b820a8)
+
 # Installation
 [commands]
 
