@@ -16,10 +16,12 @@
 Make people Happy
 
 ### The Problem (that doesn't exist)
-Reduece pressure of people
+SOFTWARE:-Problem is for people that gets bored out and for people that zone out suddenly
+HARDWARE:- To detect incoming cell phone calls 
 
 ### The Solution (that nobody asked for)
-By making a website that generate random fun facts,inspiring codes etc
+By making a website that generate random funny dark humour quotes that will cheer up people in real time
+By making a cell phone signal incoming detector using just one op-amp
 
 ## Technical Details
 ### Technologies/Components Used
@@ -32,7 +34,7 @@ Libraries used :- VSCODE
 - Tools required are proteus, multimeter, DC Power Supply
 
 ### Implementation
-For Software:
+For Software: Used VSCode for most of the coding works. And worked with Proteus 8 Professional while working out with the hardware
 # Installation
 [commands]
 
@@ -43,10 +45,12 @@ For Software:
 For Software: 
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](Add screenshot 1 here with proper name)![WhatsApp Image 2024-11-02 at 23 58 39_ab66d1a9](https://github.com/user-attachments/assets/0bb12c34-80a2-472e-a639-fe0fe91fc5ea)
+
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](Add screenshot 2 here with proper name)![WhatsApp Image 2024-11-02 at 23 58 39_ab66d1a9](https://github.com/user-attachments/assets/33e1479e-5d24-4ba9-ae1c-b15b0e20cafd)
+
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
