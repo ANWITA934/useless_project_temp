@@ -24,11 +24,11 @@ By making a website that generate random fun facts,inspiring codes etc
 ## Technical Details
 ### Technologies/Components Used
 -For Software:
- html,python
-- [Libraries used]
+ html,python,proteus
+-[Libraries used]
 VSCODE
 For Hardware:
-- [List main components]
+- LM358,Resistor,Potentiometer,Capacitor,BC548,LED,Antenna,Power Supply
 - [List specifications]
 - [List tools required]
 
@@ -41,7 +41,7 @@ For Software:
 [commands]
 
 ### Project Documentation
-For Software:
+For Software: 
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
