@@ -13,14 +13,14 @@
 - Member 3: Aravind Sunil -NSS College Of Engineering
 
 ### Project Description
-Make people Happy
+Making people happy
 
 ### The Problem (that doesn't exist)
-SOFTWARE:-Problem is for people that gets bored out and for people that zone out suddenly
+SOFTWARE:-For people who get bored out and for people who zone out suddenly
 HARDWARE:- To detect incoming cell phone calls 
 
 ### The Solution (that nobody asked for)
-- By making a website that generate random funny dark humour quotes that will cheer up people in real time
+- By making a website that generates random funny dark humor quotes that will cheer up people in real-time
 - By making a cell phone signal incoming detector using just one op-amp
 
 
@@ -34,7 +34,7 @@ Libraries used :- VSCODE
 - Tools required are proteus, multimeter, DC Power Supply
 
 ### Implementation
-For Software: Used VSCode for most of the coding works. And worked with Proteus 8 Professional while working out with the hardware
+For Software: We used VSCode for most of the coding work. Also worked with Proteus 8 Professional while working out with the hardware
 
 # Screenshots (Add at least 3)
 ![Screenshot1](https://github.com/user-attachments/assets/a07008f7-52bf-4c7d-a845-d099201ebe52)
