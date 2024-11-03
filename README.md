@@ -69,10 +69,8 @@ The Op-amp part of the circuit acts as the RF Signal Detector while Transistor p
 *Explain the final build*
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
+# Video*
+https://drive.google.com/drive/folders/1HxMMHymG-GVCcHYmP5wJ4UkjkHv2qbn_
 # Additional Demos
 [Add any extra demo materials/links]
 
