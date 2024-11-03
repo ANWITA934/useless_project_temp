@@ -59,14 +59,8 @@ Mobile-Phone-Detector-Circuit-using-Op-Amp
 The Op-amp part of the circuit acts as the RF Signal Detector while Transistor part of the circuit act as the indicator. The capacitors collection along with the antenna are used to detect RF Signals when a cell phone makes (or receives) a phone call or sends (or receives) a text message .Op-Amp reads the signals by converting the rise in current at input to voltage at output and the LED will be activated.
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+https://drive.google.com/drive/folders/1I-FHgGrS8h3wBS773v_6C4pvB-JE7XNn
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video*
